@@ -1,2 +1,2 @@
-# Data-Science-1-
+# Data-Science-1
 INST447: Data Sources and Manipulation
