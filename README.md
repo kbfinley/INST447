@@ -1,2 +1,2 @@
-# Data Science: Fall 2024 📊
-INST447: Data Sources and Manipulation
+# INST447: Data Sources and Manipulation 📊
+Examines approaches to locating, acquiring, manipulating, and disseminating data. Imperfection, biases, and other problems in data are examined, and methods for identifying and correcting such problems are introduced. The course covers other topics such as automated collection of large data sets, and extracting, transforming, and reformatting a variety of data and file types.
